@@ -1,15 +1,23 @@
-# Young Programmer
+# Beginner Programmer
 
 ### Languages I Know
 - Python
 - Makefile
-- C#
-- HTML
-
-### Languages I am Learning
-- CSS
-- Javascript
 - C
 - C++
+- C#
+- HTML
+- CSS
+- Javascript
+
+### Languages I am Learning
 - GLSL
 - HLSL
+
+### Frameworks Used
+- Unity
+- Pygame
+- Tkinter
+
+#Frameworks Learning
+- Vulkan
