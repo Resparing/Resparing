@@ -1,4 +1,4 @@
-# Beginner Programmer
+Small Programmer
 
 ### Languages I Know
 - Python
