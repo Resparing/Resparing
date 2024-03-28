@@ -8,6 +8,7 @@
 - C#
 - HTML
 - CSS
+- Java
 - Javascript
 
 ### Languages I am Learning
